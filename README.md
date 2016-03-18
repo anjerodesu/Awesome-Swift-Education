@@ -332,7 +332,7 @@
 + How Swift Scripting was used to make iOS Cookies [:page_facing_up:](https://medium.com/@bardonadam/how-i-m-using-swift-scripting-to-create-newsletter-for-ios-cookies-93db5deca4c#.cwgws2399)
 + Writing an Xcode Plugin with Swift [:page_facing_up:](http://merowing.info/2015/12/writing-xcode-plugin-in-swift/)
 + Make Command Line Applications with Swiftline [:page_facing_up:](https://github.com/Swiftline/Swiftline)
-- Swift Command Line Application Template [:pecnil2:](https://github.com/Zewo/Swift-Command-Line-Application-Template)
+- Swift Command Line Application Template [:pencil2:](https://github.com/Zewo/Swift-Command-Line-Application-Template)
 - Using Swift As General Purpose Scripting Language [:page_facing_up:](http://www.strathweb.com/2014/06/using-swift-general-purpose-scripting-language/)
 
 [:arrow_up:](#index)
