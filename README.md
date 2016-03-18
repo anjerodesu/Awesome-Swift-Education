@@ -1468,7 +1468,7 @@
 
 ## **Xcode**
 - About
-    - Xcode Core Concepts [:page_facing_ups:](https://developer.apple.com/videos/play/wwdc2013/401/)
+    - Xcode Core Concepts [:page_facing_up:](https://developer.apple.com/videos/play/wwdc2013/401/)
 - Build System
     - The Xcode Build System [:page_facing_up:](https://pewpewthespells.com/blog/xcode_build_system.html)
     - Xcode Build Settings Reference [:page_facing_up:](https://pewpewthespells.com/blog/buildsettings.html)
